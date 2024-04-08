@@ -1,1 +1,2 @@
-# Image_generation
+# AI-Image-Generator-First-App
+ 
